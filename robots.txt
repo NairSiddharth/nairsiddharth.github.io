@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Optional hygiene (mostly symbolic on GitHub Pages)
+Disallow: /drafts/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://nairsiddharth.github.io/Bullpen/sitemap.xml
